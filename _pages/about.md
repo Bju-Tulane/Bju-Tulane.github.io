@@ -30,7 +30,7 @@ latest_posts:
 
 I am a Ph.D. student in Computer Science at **Tulane University**. My research focuses on **AI security**, particularly the robustness of **LLM-based multi-agent systems** and **jailbreak attacks** on aligned language models.
 
-Before joining Tulane, I conducted research at the **University of Cincinnati**, where I built **JSWasm**, a WebAssembly-aware JavaScript sandbox for detecting obfuscated malware, and designed a multimodal LLM-based pipeline for detecting non-crash functional bugs in Android apps.
+Before joining Tulane, I conducted research at the **University of Cincinnati**, where I built **JSWasm**, a WebAssembly-aware JavaScript sandbox for detecting obfuscated malware, and designed **OLLM**, a multimodal LLM-based pipeline for detecting non-crash functional bugs in Android apps.
 
 **Research interests:** AI security · LLM multi-agent systems · jailbreak and red-teaming analysis · WebAssembly-based malware analysis · secure software behavior modeling · machine learning–driven program analysis.
 
