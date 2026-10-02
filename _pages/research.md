@@ -27,15 +27,15 @@ I am interested in why aligned LLMs remain vulnerable to jailbreak attacks, and 
 
 ## Past Work at the University of Cincinnati
 
-### JSWasm: JavaScript Behavior Modeling and Policy Enforcement
+### JSWasM: JavaScript Behavior Modeling and Policy Enforcement
 
-Attackers increasingly hide malicious JavaScript behind WebAssembly and AI-assisted obfuscation. I developed **JSWasm**, a WebAssembly-aware JavaScript sandbox for runtime behavioral analysis of obfuscated malware. It introduces a hybrid static–dynamic detection approach that uncovers obfuscation and evasion tactics that purely static tools miss.
-Related paper: _A Novel Runtime Monitoring Framework for WebAssembly-Obfuscated Malicious JavaScript Classification_ (preprint).
+Attackers increasingly hide malicious JavaScript behind WebAssembly and AI-assisted obfuscation. I developed **JSWasM**, a WebAssembly-aware JavaScript sandbox for runtime behavioral analysis of obfuscated malware. It introduces a hybrid static–dynamic detection approach that uncovers obfuscation and evasion tactics that purely static tools miss.
+Related paper: [_A Novel Runtime Monitoring Framework for WebAssembly-Obfuscated Malicious JavaScript Classification_](https://www.techrxiv.org/doi/abs/10.36227/techrxiv.176115871.16121085) (TechRxiv preprint).
 
 ### OLLM: LLM-Powered Verification for Android Apps
 
 Many app bugs never crash; the app simply does the wrong thing. I developed **OLLM**, which integrates multimodal LLM reasoning into a verification pipeline that combines UI flows, API sequences, and task context to detect these non-crash functional bugs. The system improved detection accuracy by about **50%** over the baseline.
-Related papers: _APSEC 2025_ and _FineChain_ (preprint).
+Related papers: _APSEC 2024_ and _FineChain_ (preprint).
 
 ### Provenance and Reproducibility in Scientific Workflows
 
