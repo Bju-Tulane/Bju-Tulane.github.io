@@ -4,3 +4,7 @@
 
 "Preprint":
   color: "#6c757d"
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
+  color: "#2d7d46"
