@@ -2,10 +2,5 @@
   url: https://conf.researchr.org/series/apsec
   color: "#00369f"
 
-"COSE":
-  url: https://www.sciencedirect.com/journal/computers-and-security
-  color: "#b31b1b"
-
-"TOSEM":
-  url: https://dl.acm.org/journal/tosem
-  color: "#2d7d46"
+"Preprint":
+  color: "#6c757d"
