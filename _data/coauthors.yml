@@ -1,0 +1,6 @@
+# Add co-author homepages here so their names become links on the publications page.
+# Example:
+# "yang":
+#   - firstname: ["J."]
+#     url: https://example.com
+{}
