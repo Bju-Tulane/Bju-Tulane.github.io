@@ -1,0 +1,5 @@
+# Unlisted mode: ask search engines not to crawl this site.
+# Before submitting, change "Disallow: /" back to "Disallow:" and restore the Sitemap line:
+# Sitemap: https://bju-tulane.github.io/sitemap.xml
+User-agent: *
+Disallow: /
